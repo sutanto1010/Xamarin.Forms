@@ -25,5 +25,6 @@ namespace Xamarin.Forms.Xaml
 		public int LineNumber { get; }
 
 		public int LinePosition { get; }
+
 	}
 }
